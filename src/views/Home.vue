@@ -32,11 +32,11 @@
           ></iframe>
         </div>
         <div class="img-row half">
-          <div class="img" style="background-image:url(/static/media/2.JPG)"></div>
-          <div class="img" style="background-image:url(/static/media/3.JPG)"></div>
+          <div class="img" style="background-image:url(/static/media/2.jpeg)"></div>
+          <div class="img" style="background-image:url(/static/media/3.jpeg)"></div>
         </div>
         <div class="img-row">
-          <div class="img" style="background-image:url(/static/media/DSC_7226.JPG)"></div>
+          <div class="img" style="background-image:url(/static/media/DSC_7226.jpeg)"></div>
         </div>
       </div>
     </div>

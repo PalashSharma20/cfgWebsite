@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="section hero" style="background-image:url(/static/media/1.JPG)">
+    <div class="section hero" style="background-image:url(/static/media/1.jpeg)">
       <h1 style="--span-bg:#18181b;">
         <span>About Us</span>
       </h1>
