@@ -9,6 +9,11 @@
         <span>GOOD</span>
       </h1>
     </div>
+    <div class="section sign-up">
+      <a href="https://sites.google.com/gapps.uwcsea.edu.sg/take-hacktion-2020/sign-up?authuser=1">
+        <h3>Sign Up for Take [H]acktion 2020</h3>
+      </a>
+    </div>
     <div class="section">
       <div class="flex">
         <div class="col large">
@@ -50,6 +55,16 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.sign-up {
+  background: #ec4a6a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  h3 {
+    font-weight: bold;
+    color: #fff;
+  }
+}
 .img-grid {
   display: grid;
   grid-template-rows: repeat(1, 1fr);
