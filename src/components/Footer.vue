@@ -5,9 +5,9 @@
         <h1>Join Us</h1>
         <p>
           Want to inspire change? Join us.
-          <br />Please meet Mr. Kann for details.
+          <br />
         </p>
-        <a class="no_pace" href="mailto:dak@uwcsea.edu.sg">dak@uwcsea.edu.sg</a>
+        <a class="no_pace" href="mailto:eastcodingforgood@uwcsea.edu.sg">eastcodingforgood@uwcsea.edu.sg</a>
       </div>
       <div class="col ros-bottom">
         <h1>Start a project</h1>
@@ -15,7 +15,7 @@
           Have an idea?
           <br />Send a proposal. We love taking on new projects.
         </p>
-        <a class="no_pace" href="mailto:dak@uwcsea.edu.sg">dak@uwcsea.edu.sg</a>
+        <a class="no_pace" href="mailto:eastcodingforgood@uwcsea.edu.sg">eastcodingforgood@uwcsea.edu.sg</a>
       </div>
       <div class="col ros-bottom">
         <h1>Support Us</h1>
@@ -23,7 +23,7 @@
           Are you interested in supporting our cause?
           <br />Help us through sponsorship or by sharing your expertise.
         </p>
-        <a class="no_pace" href="mailto:dak@uwcsea.edu.sg">dak@uwcsea.edu.sg</a>
+        <a class="no_pace" href="mailto:eastcodingforgood@uwcsea.edu.sg">eastcodingforgood@uwcsea.edu.sg</a>
       </div>
     </div>
     <div class="copyright ros-bottom">
