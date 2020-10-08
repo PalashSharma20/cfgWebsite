@@ -210,7 +210,7 @@ body {
 .section .button {
   display: inline-block;
   padding: 1.7vmin 0;
-  margin-right: 2.7vmin;
+  margin-left: 2.7vmin;
   font-size: 2.1vmin;
   color: #343a40;
   text-transform: uppercase;
@@ -251,7 +251,7 @@ body {
   font-size: 2.1vmin;
   color: #343a40;
   text-transform: uppercase;
-  margin-left: 1vmin;
+  margin-right: 1vmin;
 }
 .section .back svg {
   height: 1.5vmin;
