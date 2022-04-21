@@ -7,6 +7,7 @@
     </div>
     <div class="section">
       <p>
+      Test
         Coding for good is a high school initiative which promotes coding skills amongst students and works towards the betterment of the school. It currently has 16 students, from grade 9 to 12, who constantly challenge themselves to come up with
         sustainable solutions for problems their peers in school may face. We are comprised of people passionate about service and want to reach out to our community by applying our computer science knowledge. As we are a unified team with an eclectic mix of
         skills, we work together to combine our programming, engineering and design skills to create projects that will benefit the various service groups and clubs in school. This may take the form of a website or an app.
